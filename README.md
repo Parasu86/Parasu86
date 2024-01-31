@@ -7,7 +7,7 @@ I'm a Java Developer. Apart from coding I always enjoy meeting new people and he
   
 </p>
 
-- 🔭 I’m currently working on my **Trainee Developer**
+- 🔭 I’m currently working on **Trainee Developer**
 - 🌱 I’m currently learning **Java Full Stack**
 - 👯 I’m looking to collaborate on **Development Based Projects**
 - 💬 Ask me about **anything you want.**

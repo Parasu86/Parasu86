@@ -2,7 +2,7 @@
 <h3 align="center">I'm Parasuraman, a full time great passion for programming, a tech enthusiast with passion to solve problems and to make things.
 I'm a Java Developer. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 <p align="center">
-  <img src="" alt="ParasuRaman" /> • 
+  <img src="download12.png" alt="ParasuRaman" /> • 
     
   
 </p>

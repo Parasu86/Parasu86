@@ -1,6 +1,6 @@
 - <h1 align="center">Hello Coders!! 👋</h1>
 <h3 style="background-color🏁>  align="center">I'm Parasuraman, a full time great passion for programming, a tech enthusiast with passion to solve problems and to make things.
-I'm a Java Developer. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
+I'm a Java Developer. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work . Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 <h3 style="background-color:blue;"/h3>
 <p align="center">
   <img src="download12.png" alt="ParasuRaman" /> • 
@@ -14,7 +14,7 @@ I'm a Java Developer. Apart from coding I always enjoy meeting new people and he
 - 💬 Ask me about **anything you want.**
 - 📫 How to reach me **Linkedin**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ Fun fact **I think I'm funny😄
+
 
 
 ### Blogs posts
